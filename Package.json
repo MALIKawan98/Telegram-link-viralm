@@ -1,0 +1,15 @@
+{
+  "name": "telegram-subscriber-exchange-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot for subscriber exchange using forced joins and dynamic pools.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "firebase-admin": "^13.4.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
